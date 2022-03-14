@@ -8,5 +8,14 @@ A circle of radius a is given (6). On the diameter AB there is a point E   (at a
   
 example:  
 ![til](./dichotomy/assets/GIF1.gif)
+  #2-UNCONDITIONAL OPTIMIZATION  
+- Newton's multiple method for optimization task 
   
+![til](./Newton/assets/2_Newtons_multiple.JPG)  
+  
+example:  
+![til](./Newton/assets/GIF2.gif)  
+  
+  
+
   
